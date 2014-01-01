@@ -4,5 +4,6 @@ jjw7659.github.io
 <hr>
 <body>
 <p>This is a test</p>
+<a href="http://www.sciencealovestory.wordpress.com/">blog</a> 
 </body>
 
