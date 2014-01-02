@@ -1,4 +1,4 @@
-jjw7659.github.io
+jjw7659.github.com
 =================
 <h1>Hello world</h1>
 <hr>
